@@ -7,5 +7,5 @@ echo   🕋 منظومة تشغيل وتغطية فنادق الحرمين ال�
 echo   🏢 غرفة عمليات التعاقدات والأسعار ومطابقة أسعار بوكينج العالمية
 echo ===============================================================================
 echo.
-python -m streamlit run ui/app.py --browser.gatherUsageStats false
+python -m streamlit run app.py --server.headless false
 pause
