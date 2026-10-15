@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Temporary and local IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Temporary inspect files
+data/temp_inspect.*
